@@ -1,0 +1,44 @@
+
+.container {
+    margin: 50px;
+}
+
+.button-1 {
+    width: 125px;
+    margin: 10px;
+    padding: 4px;
+    border-radius: 20px;
+    color: teal;
+    background-color: whitesmoke;
+    border: solid 2px teal; 
+    text-align: center;
+}
+
+.button-2 {
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(66, 194, 145);
+    border-color: lightgreen;
+    text-align: center;
+}
+
+.button-3 {
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 0;
+    background-color:rgb(76, 147, 228);
+    text-align: center;
+    color: white;
+    border: solid black 1px;
+    filter: drop-shadow(3px 2px 1px #000)
+}
+
+.circle {
+    padding: 3px;
+    font-size: 23px;
+    font-weight: bolder;
+}
